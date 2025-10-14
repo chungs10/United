@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-We thank Mr. Anthony Haloulos of the United Airlines Innovation Lab for sponsoring this project and for his guidance as our client sponsor. 
+We thank Mr. Anthony Haloulos for his guidance as our client sponsor. 
